@@ -22,7 +22,7 @@ function Hero() {
           </div>
           <div className="w-2xs h-72 rounded-full overflow-hidden mx-auto lg:mx-0">
             <img
-              src="src\assets\Images\IMG_20260315_173307.jpg"
+              src={myImage}
              
               alt="hero Image"
               width={280}
