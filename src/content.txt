@@ -1,0 +1,27 @@
+Hi, I'm Boominathan
+
+Full Stack Developer & Creative Problem Solver
+Passionate developer interested in building modern web applications.
+
+About Me
+I am an engineering student and an aspiring full-stack web developer. I enjoy building modern, responsive, and user-friendly web applications. I have experience working with technologies like HTML, CSS, JavaScript, React, and Tailwind CSS. I like solving problems through coding and continuously improving my development skills. My goal is to grow as a professional developer and build impactful digital products.
+
+Skills
+Here are some of the frameworks, libraries, services, and runtimes I have experience working with in web development. These tools have helped me build modern and responsive web applications. I am continuously learning new technologies, so this list may evolve as I grow my skills.
+
+Work / Learning Experience
+Currently learning and building projects in web development with focus on frontend technologies.
+
+Projects
+Explore my projects including web applications and UI designs. These projects showcase my skills in building responsive and user-friendly digital experiences.
+
+
+Get In Touch
+Have a project idea or want to collaborate? Feel free to reach out.
+
+Name
+Your Email
+Message
+Submit
+
+© 2026 Boominathan. All Rights Reserved.
