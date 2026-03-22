@@ -1,4 +1,6 @@
 import React from "react";
+import myImage from "../assets/Images/IMG_20260315_173307.jpg"
+             
 import { heroBtns, heroItems, navItems } from "../constant/data";
 
 function Hero() {
