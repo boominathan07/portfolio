@@ -57,8 +57,6 @@ npm run dev
 ## Deployment
 npm run build
 
-Deployed on Vercel → Coming Soon
-
 ## Authors
 M. Boominathan
 MERN Stack Developer
