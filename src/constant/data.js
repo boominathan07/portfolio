@@ -205,6 +205,15 @@ export const projectsItems = [
     git: "#",
     live:"#"
   },
+   {
+    id: 3,
+    img: "/images/LinkshperePic.png",
+    title: "LinkSphere - Saas Platform",
+    text: "LinkSphere is a platform where creators, influencers, and businesses can share all their links in one page, along with analytics to track performance and audience insights to understand their followers.",
+    tags: ["React", "JavaScript", "Tailwind Css","Node.js","Express.js","Mongodb"],
+    git: "https://github.com/boominathan07/-LinkSphere.git",
+    live:"https://linksphere-alpha.vercel.app/"
+  },
 ];
 
 export const testimonialsItems = [
