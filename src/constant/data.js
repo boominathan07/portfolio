@@ -88,7 +88,7 @@ export const heroBtns = [
     id: 3,
     icon: RiDownloadLine,
     label: "Download Resume",
-     href: "/Boominathan_Profile.pdf",
+     href: "/Boominathan_Resume.pdf",
      
   },
 ];
