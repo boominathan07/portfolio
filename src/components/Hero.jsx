@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from "../assets/Images/IMG_20260315_173307.jpg"
+import myImage from "../assets/Images/hero-img.png"
              
 import { heroBtns, heroItems, navItems } from "../constant/data";
 
@@ -63,7 +63,7 @@ function Hero() {
   if (item.id === 3) {
     const a = document.createElement('a');
     a.href = item.href;
-    a.download = 'Boominathan_Resume.pdf';
+    a.download = 'Boominathan_Profile.pdf';
     a.click();
   } else {
     window.open(item.href, item.id === 2 ? "_blank" : "_self");
