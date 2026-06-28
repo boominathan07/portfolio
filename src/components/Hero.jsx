@@ -63,7 +63,7 @@ function Hero() {
   if (item.id === 3) {
     const a = document.createElement('a');
     a.href = item.href;
-    a.download = 'Boominathan_Profile.pdf';
+    a.download = 'Boominathan_Resume.pdf';
     a.click();
   } else {
     window.open(item.href, item.id === 2 ? "_blank" : "_self");
