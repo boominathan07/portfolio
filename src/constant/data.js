@@ -18,7 +18,7 @@ export const socialLink = [
   {
     id: 2,
     icon: RiLinkedinBoxFill,
-     href: "https://www.linkedin.com/in/m-boominathan-611401306",
+     href: "https://www.linkedin.com/in/boomi-m07",
   },
   {
     id: 3,
