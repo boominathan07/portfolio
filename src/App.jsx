@@ -5,6 +5,7 @@ import About from './components/About'
 import Projects from './components/Projects'
 import Testimonials from './components/Testimonials'
 import Contact from './components/Contact'
+import Achievements from './components/Achievement'
 function App() {
   return (
     <div>
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Projects />
       {/* <Testimonials /> */}
+      <Achievements />
       <Contact />
       </main>
       <p className='text-center py-4 text-sm'>&copy;{new Date().getFullYear()}Boominathan. All Rights Reserved</p>

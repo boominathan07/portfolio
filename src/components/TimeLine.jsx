@@ -5,13 +5,15 @@ function TimeLine() {
   return (
     <div className="mt-11 space-y-6">
       <div className="space-y-2">
-        <h3>Work / Learning Experience</h3>
+        <h3>Experience</h3>
         <p>
-          Currently learning and building projects in web development with a
-          strong focus on frontend technologies. I enjoy creating responsive,
-          user-friendly interfaces and improving my skills through practical
-          projects. I am also exploring modern tools and frameworks to enhance
-          my development knowledge.
+       <p>
+  Gained practical experience through internships and full-stack development
+  projects, working with React.js, Node.js, Express.js, and MongoDB. Built
+  scalable web applications, integrated REST APIs, and developed responsive
+  user interfaces while strengthening problem-solving, debugging, and software
+  development skills.
+</p>
         </p>
           </div>
           {/* {wrapper} */}

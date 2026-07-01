@@ -43,8 +43,13 @@ export const navItems = [
     label: "Projects",
     href: "#projects",
   },
-  {
+   {
     id: 4,
+    label: "Achievement",
+    href: "#achievements",
+  },
+  {
+    id: 5,
     label: "Contact Me",
     href: "#contact",
   },
@@ -215,6 +220,15 @@ export const projectsItems = [
     tags: ["React", "JavaScript", "Tailwind Css"],
     git: "https://github.com/boominathan07/spotify-clone.git",
     live:"https://spotify-clone-dnrs.vercel.app/"
+  },
+];
+export const achievementItems = [
+   {
+    id: 1,
+    title: "First Prize – Outstanding Problem Solving Skills",
+    text: "Awarded First Prize at the ITCAINS Association Inauguration for demonstrating exceptional analytical thinking and problem-solving abilities.",
+    img: "/images/Problem-solving.jpeg",
+    tags: ["First Prize", "Problem Solving"],
   },
 ];
 

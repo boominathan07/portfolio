@@ -6,11 +6,10 @@ function Skills() {
       <div className="flex flex-col gap-3 mt-4 ">
         <h3 className="section-title">Skills</h3>
         <p>
-          Here are some of the frameworks, libraries, services, and runtimes I
-          have experience working with in web development. These tools have
-          helped me build modern and responsive web applications. I am
-          continuously learning new technologies, so this list may evolve as I
-          grow my skills.
+          Experienced in modern web development technologies including React.js,
+  Node.js, Express.js, MongoDB, JavaScript, HTML, CSS, Tailwind CSS, Git,
+  and REST APIs. Continuously learning and improving technical skills through
+  projects and hands-on development.
         </p>
       </div>
       <div className="flex flex-row gap-4 items-center flex-wrap">

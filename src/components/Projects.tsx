@@ -14,9 +14,12 @@ function Projects() {
         <div>
           <h3 className="section-title">Projects</h3>
           <p className="mt-3">
-            Explore my projects including web applications and UI designs. These
-            projects showcase my skills in building responsive and user-friendly
-            digital experiences.
+           <p className="mt-3">
+  A collection of full-stack web applications built using modern technologies
+  such as React.js, Node.js, Express.js, and MongoDB. These projects
+  demonstrate my ability to develop scalable solutions, integrate APIs, and
+  create responsive user experiences while solving real-world problems.
+</p>
           </p>
         </div>
 
@@ -37,7 +40,16 @@ function Projects() {
                 />
 
                 {/* {overlay} */}
-                <div className="absolute inset-0 bg-black/60 flex justify-center items-center gap-4 opacity-0 group-hover:opacity-100">
+                <div
+  className="
+    absolute inset-0 bg-black/60
+    flex justify-center items-center gap-4
+    opacity-100
+    sm:opacity-0
+    sm:group-hover:opacity-100
+    transition-opacity
+  "
+>
                   
                   <a href={item.live} target="_blank" className="size-12 bg-emerald-600 rounded-full flex justify-center items-center text-white
                   hover:bg-emerald-700 transition-colors">

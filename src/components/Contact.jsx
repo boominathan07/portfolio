@@ -2,13 +2,19 @@ import React from 'react'
 import { socialLink } from '../constant/data'
 
 function Contact() {
+  const handleSubmit = () => {
+  window.location.href =
+    "mailto:boominathan7618@gmail.com?subject=Portfolio Contact";
+};
   return (
       <section className='pt-28' id='contact'>
           <div className='container grid gap-11 md:grid-cols-[0.7fr_1fr] md:pb-16 border-b border-zinc-200 dark:border-zinc-900'>
               <div className='flex flex-col gap-5'>
               <div className=''>
                   <h2 className='section-title'>Get In Touch</h2> 
-                  <p className=''>Have a project idea or want to collaborate? Feel free to reach out.
+                  <p className=''>I'm open to internship opportunities, freelance projects, and professional
+  collaborations. Feel free to connect with me regarding web development,
+  software projects, or career opportunities.
 </p>
                   </div>
 
@@ -48,8 +54,8 @@ function Contact() {
           </div>
 
           {/* Submit Button */}
-          <button className='btn bg-emerald-700 border border-emerald-700 py-3 font-bold w-full md:w-full'>
-            Submit
+          <button onClick={handleSubmit} className='btn bg-emerald-700 border border-emerald-700 py-3 font-bold w-full md:w-full'>
+            Send Message
           </button>
         </form>
               </div>

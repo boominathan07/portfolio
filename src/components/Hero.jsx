@@ -16,8 +16,8 @@ function Hero() {
               Mern Stack Developer & Creative Problem Solver
             </h1>
             <p>
-              Passionate developer interested in building modern web
-              applications.
+              MERN Stack Developer passionate about building scalable web applications
+  and creating user-friendly digital experiences.
             </p>
           </div>
           <div className="w-2xs h-72 rounded-full overflow-hidden mx-auto lg:mx-0">
