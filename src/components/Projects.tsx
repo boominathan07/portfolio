@@ -63,7 +63,8 @@ function Projects() {
               {/* {content} */}
               <div className="p-5 space-y-3 overflow-hidden">
                 <h3 className="section-title text-xl min-h-[35px] group-hover:text-emerald-600">{item.title}</h3>
-                <p className="line-clamp-2 hover:line-clamp-none">{item.text}</p>
+                <p className="md:line-clamp-2 md:hover:line-clamp-none">{item.text}</p>
+                
                 {/* {tags} */}
                 <div className="flex  gap-2 flex-wrap">
                   {item.tags.map((tag, index) => (

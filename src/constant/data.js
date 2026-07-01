@@ -198,7 +198,7 @@ export const projectsItems = [
     id: 1,
     img: "/images/LinkshperePic.png",
     title: "LinkSphere - Micro Saas Platform",
-    text: "LinkSphere is a platform where creators, influencers, and businesses can share all their links in one page, along with analytics to track performance and audience insights to understand their followers.",
+    text: "A link-sharing platform with real-time analytics, audience insights, and secure authentication using JWT and Google OAuth.",
     tags: ["React", "JavaScript", "Tailwind Css","Node.js","Express.js","Mongodb"],
     git: "https://github.com/boominathan07/-LinkSphere.git",
     live:"https://linksphere-alpha.vercel.app/"
@@ -207,7 +207,7 @@ export const projectsItems = [
     id: 2,
     img: "/images/LandLink.png",
     title: "LandLink - Micro Saas Platform",
-    text: "LandLink is a MERN-based Micro SaaS platform for land owners and brokers to manage plot sales with layout upload, interactive plot (OCR-based) mapping, booking, commission tracking, real-time updates, and role-based dashboards.",
+    text:"A full-stack land management platform with OCR-based data extraction, real-time plot tracking, and secure role-based access control.",
     tags: ["React", "Tailwind Css","Express.js","Mongodb","OpenCV", "PaddleOCR","Cloudinary"],
     git: "https://github.com/boominathan07/landlink-platform",
     live:"https://landlink-platform.vercel.app/"
